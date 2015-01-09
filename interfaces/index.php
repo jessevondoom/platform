@@ -142,11 +142,17 @@ if ($user_id) {
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>CASH Music</title>
-		<meta name="description" content="">
+		<meta name="description" content="The CASH Music platform is a set of digital tools designed to solve real problems for working musicians, based on years of direct collaboration with artists.">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<link rel="stylesheet" href="https://www-cashmusic.netdna-ssl.com/admin/ui/default/assets/css/front.css">
+		<!--<link rel="stylesheet" href="https://www-cashmusic.netdna-ssl.com/admin/ui/default/assets/css/front.css">-->
+		<link rel="stylesheet" href="admin/ui/default/assets/css/front.css">
 		<link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<!--facebook metadata-->
+		<meta property="og:title" content="CASH Music - A nonprofit organization focused on educating and empowering artists and their fans to foster a viable and sustainable future for music."/>
+		<meta property="og:url" content="http://www.cashmusic.org"/>
+		<meta property="og:site_name" content="www.cashmusic.org" />
+		<meta property="fb:admins" content="100001809157387" />
+		<!--facebook metadata-->
 	</head>
 	<body>
    <div id="fb-root"></div>

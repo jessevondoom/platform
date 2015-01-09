@@ -61,7 +61,7 @@ fieldset {
 
 
 body {
-	height:100%;
+    height:100%;
     background:#222 url(../images/hero_bg.jpg);
     background-attachment: fixed;
     margin:0;
@@ -288,7 +288,7 @@ margin:-5% auto 0 auto;
 }
 
 .panel.made img{
-	float:right;
+    float:right;
     padding:5% 5% 0 0;
 }
 
@@ -337,7 +337,7 @@ margin:-5% auto 0 auto;
 }
 
 .panel.better{
-    background:url('../images/blank.jpg');
+    background:url('../images/blank.gif');
     background-width: 100%;
     background-repeat: no-repeat;
     background-position: left top;
